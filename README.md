@@ -4,8 +4,6 @@
 <img src="https://github.com/mahozad/mahozad/blob/master/logo.svg" height="128px"></img>
 </p>
 
-### [Portfolio](http://mahozad.ir)
-
 <!--
 **mahozad/mahozad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
