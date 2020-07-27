@@ -1,6 +1,8 @@
 
 
-<img src="https://github.com/mahozad/mahozad/blob/master/logo.svg" height="64px"></img>
+<p align="center">
+<img src="https://github.com/mahozad/mahozad/blob/master/logo.svg" height="128px"></img>
+</p>
 
 ### [Portfolio](http://mahozad.ir)
 
