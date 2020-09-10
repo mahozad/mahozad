@@ -4,6 +4,12 @@
 <img src="https://github.com/mahozad/mahozad/blob/master/logo.svg" height="128px"></img>
 </p>
 
+<p>
+We tend to attribute chance and accidents to external forces:
+I was born in 1996-1-1 which corresponds to year 1374 in persian calendar; the length of the path in my logo is 1374 pixels - all by accident.
+Do you see how special I am?!😄
+</p>
+
 <!--
 **mahozad/mahozad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
