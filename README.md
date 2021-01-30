@@ -1,26 +1,9 @@
-
-
 <p align="center">
-<img src="https://github.com/mahozad/mahozad/blob/master/logo.svg" height="128px"></img>
+  <img src="https://github.com/mahozad/mahozad/blob/master/logo.svg" height="96px"/>
 </p>
 
-<!-- <p>
-We tend to attribute chance and accidents to external forces:
-I was born in 1996-1-1 which corresponds to year 1374 in persian calendar; the length of the path in my logo is 1374 pixels - all by accident.
-Do you see how special I am?!😄
-</p> -->
+<br>
 
-<!--
-**mahozad/mahozad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahozad&custom_title=Coding Activity over Last Week&layout=compact&theme=slateorange"/>  
+</p>
