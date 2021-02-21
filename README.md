@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mahozad/mahozad/blob/master/logo.svg" height="96px"/>
+  <img src="logo.svg" height="96px"/>
 </p>
 
 <br>
