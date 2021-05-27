@@ -1,0 +1,16 @@
+<svg version="1.1" viewBox="0 0 32 24" width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+  <circle r="9" fill="#d3d3d3" cx="16" cy="12"/>
+  <path fill="none" stroke="#006aea" stroke-width=".2" d="m16 12 9.001-1e-3"/>
+  <text fill="#006aea" x="19.307" y="11.428" font-family="Roboto" font-size="2.5px">r</text>
+  <path fill="none" stroke="#006aea" stroke-width=".2" stroke-dasharray="0.2, 0.2" d="m25.001 11.999 3.499 1e-3">
+    <animate attributeName="stroke-dashoffset" begin="anim1.begin" calcMode="spline" dur="2000ms" keySplines=".6,0,.4,1" keyTimes="0; 1" values="0;-0.8"/>
+  </path>
+  <g>
+    <rect width="4" height="2" fill="#ea0044" x="23" y="11" fill-opacity=".5"/>
+    <circle r=".25" fill="#ffd80b" cx="25" cy="12"/>
+    <animateTransform id="anim1" fill="freeze" attributeName="transform" begin="0s; anim4.end+1s" dur="2s" by="2, 0" calcMode="spline" keyTimes="0; 1" keySplines=".6,0,.4,1"/>
+    <animate id="anim2" fill="freeze" attributeName="opacity" from="1" to="0" dur="500ms" begin="anim1.end+2500ms"/>
+    <animateTransform id="anim3" fill="freeze" attributeName="transform" begin="anim2.end" from="0 0" to="0 0" dur="1000ms"/>
+    <animate id="anim4" fill="freeze" attributeName="opacity" from="0" to="1" dur="500ms" begin="anim3.end"/>
+  </g>
+</svg>
