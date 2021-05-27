@@ -1,4 +1,4 @@
-<svg version="1.1" viewBox="0 0 32 24" width="320" height="240" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" viewBox="0 0 32 24" width="640" height="480" xmlns="http://www.w3.org/2000/svg">
   <g>
     <circle r="9" fill="#d3d3d3" cx="16" cy="12"/>
     <path fill="none" stroke="#04ea00" stroke-width="0.2" d="m17.721 10.278a2.4332 2.4332 0 0 1 0.712 1.721"/>
@@ -19,6 +19,14 @@
       <animate attributeName="fill-opacity" from="0.5" to="0" dur="500ms" fill="freeze" begin="anim1.begin"/>
       <animate attributeName="fill-opacity" from="0" to="0.5" dur="500ms" fill="freeze" begin="anim4.begin"/>
     </text>
+    <path fill="none" stroke="#006aea" stroke-width=".2" stroke-dasharray="0.2, 0.2" d="m22.364 5.635 2.475-2.4738">
+      <animate
+          attributeName="stroke-dashoffset"
+          begin="anim1.begin"
+          values="0;-0.8"
+          dur="2000ms"
+          calcMode="spline" keyTimes="0; 1" keySplines=".6,0,.4,1"/>
+    </path>
     <g>
       <rect width="4" height="2" fill="#ea0044" x="20.364" y="4.635" fill-opacity="0.5"/>
       <circle r="0.25" fill="#ffd80b" cx="22.364" cy="5.635"/>
@@ -28,9 +36,9 @@
           begin="0s; anim4.end+1s"
           dur="2s"
           by="1.479, -1.479"
-          calcMode="spline" keyTimes="0; 1" keySplines=".65,0,.35,1"
+          calcMode="spline" keyTimes="0; 1" keySplines=".6,0,.4,1"
           fill="freeze" />
-      <animate id="anim2" attributeName="opacity" from="1" to="0" dur="500ms" fill="freeze" begin="anim1.end+2s"/>
+      <animate id="anim2" attributeName="opacity" from="1" to="0" dur="500ms" fill="freeze" begin="anim1.end+2500ms"/>
       <animateTransform
           id="anim3"
           attributeName="transform"
@@ -41,6 +49,5 @@
           dur="1000ms"/>
       <animate id="anim4" attributeName="opacity" from="0" to="1" dur="500ms" fill="freeze" begin="anim3.end"/>
     </g>
-    <path fill="none" stroke="#006aea" stroke-width="0.2" stroke-dasharray="0.2, 0.2" d="m22.364 5.6345 1.479-1.478"/>
   </g>
 </svg>
