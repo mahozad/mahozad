@@ -1,0 +1,26 @@
+<svg version="1.1" viewBox="0 0 60 60" width="250" height="106" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="grad1" gradientUnits="userSpaceOnUse" x1="4.2092" y1="48.9409" x2="20.6734" y2="65.405" gradientTransform="matrix(1 0 0 -1 0 61)">
+    <stop offset="0.1183" stop-color="#0095D5"/>
+    <stop offset="0.4178" stop-color="#3C83DC"/>
+    <stop offset="0.6962" stop-color="#6D74E1"/>
+    <stop offset="0.8333" stop-color="#806EE3"/>
+  </linearGradient>
+  <linearGradient id="grad2" gradientUnits="userSpaceOnUse" x1="-10.1017" y1="5.8362" x2="45.7315" y2="61.6694" gradientTransform="matrix(1 0 0 -1 0 61)">
+    <stop offset="0.1075" stop-color="#C757BC"/>
+    <stop offset="0.2138" stop-color="#D0609A"/>
+    <stop offset="0.4254" stop-color="#E1725C"/>
+    <stop offset="0.6048" stop-color="#EE7E2F"/>
+    <stop offset="0.7430" stop-color="#F58613"/>
+    <stop offset="0.8232" stop-color="#F88909"/>
+  </linearGradient>
+  <linearGradient id="grad3" gradientUnits="userSpaceOnUse" x1="15.9594" y1="-13.0143" x2="44.3068" y2="15.3332" gradientTransform="matrix(1 0 0 -1 0 61)">
+    <stop offset="0.0967" stop-color="#0095D5"/>
+    <stop offset="0.3007" stop-color="#238AD9"/>
+    <stop offset="0.6211" stop-color="#557BDE"/>
+    <stop offset="0.8643" stop-color="#7472E2"/>
+    <stop offset="1.0000" stop-color="#806EE3"/>
+  </linearGradient>
+  <polygon fill="url(#grad1)" points="0,0 30.1,0 0,32.5"/>
+  <polygon fill="url(#grad2)" points="30.1,0 0,31.7 0,60 30.1,29.9 60,0"/>
+  <polygon fill="url(#grad3)" points="0,60 30.1,29.9 60,60"/>
+</svg>
