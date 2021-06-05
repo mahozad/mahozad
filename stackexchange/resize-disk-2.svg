@@ -4,33 +4,33 @@
       <path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
     </marker>
   </defs>
-  <text x="85.716" y="12.157" fill="#d0911f" font-family="Roboto" font-size="2.6667px" stop-color="#000000" stroke-width=".5" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="85.716" y="12.157">w<tspan baseline-shift="sub" fill="#d0911f" font-size="65%">2</tspan></tspan></text>
-  <text x="92.819" y="16.74" fill="#d0911f" font-family="Roboto" font-size="2.6667px" stop-color="#000000" stroke-width=".5" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="92.819" y="16.74">h<tspan baseline-shift="sub" font-size="65%">2</tspan></tspan></text>
-  <text x="78.359" y="13.143" fill="#fbc600" font-family="Roboto" font-size="2.6667px" stop-color="#000000" stroke-width=".5" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="78.359" y="13.143">w<tspan baseline-shift="sub" fill="#fbc600" font-size="65%">1</tspan></tspan></text>
-  <text x="74.33" y="16.384" fill="#fbc600" font-family="Roboto" font-size="2.6667px" stop-color="#000000" stroke-width=".5" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="74.33" y="16.384">h<tspan baseline-shift="sub" fill="#fbc600" font-size="65%">1</tspan></tspan></text>
-  <circle cx="20" cy="22" r="12" fill="#0400ef" stop-color="#000000" stroke-width=".5"/>
-  <rect x="28.226" y="8.1845" width="9" height="5" fill="#d0911f" stop-color="#000000"/>
-  <rect x="17.5" y="7" width="5" height="3" fill="#fbc600" stop-color="#000000"/>
-  <path d="m40 22h19" fill="none" marker-end="url(#TriangleOutM)" stop-color="#000000" stroke="#000" stroke-width=".5"/>
-  <path d="m20 22h12" fill="none" stop-color="#000000" stroke="#ff06d7" stroke-width=".375"/>
-  <text x="31.495" y="6.4729" fill="#d0911f" font-family="Roboto" font-size="2.6667px" stop-color="#000000" stroke-width=".5" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="31.495" y="6.4729">w<tspan baseline-shift="sub" fill="#d0911f" font-size="65%">2</tspan></tspan></text>
-  <text x="38.481" y="11.593" fill="#d0911f" font-family="Roboto" font-size="2.6667px" stop-color="#000000" stroke-width=".5" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="38.481" y="11.593">h<tspan baseline-shift="sub" font-size="65%">2</tspan></tspan></text>
-  <text x="18.692" y="5.6181" fill="#fbc600" font-family="Roboto" font-size="2.6667px" stop-color="#000000" stroke-width=".5" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="18.692" y="5.6181">w<tspan baseline-shift="sub" fill="#fbc600" font-size="65%">1</tspan></tspan></text>
-  <text x="14.622" y="8.4567" fill="#fbc600" font-family="Roboto" font-size="2.6667px" stop-color="#000000" stroke-width=".5" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="14.622" y="8.4567">h<tspan baseline-shift="sub" fill="#fbc600" font-size="65%">1</tspan></tspan></text>
-  <text x="10.676" y="42.392" fill="#6c5d25" font-family="Roboto" font-size="2.6667px" stop-color="#000000" stroke-width=".5" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="10.676" y="42.392">w<tspan baseline-shift="sub" fill="#6c5d25" font-size="65%">n</tspan></tspan></text>
-  <text x="5.7317" y="37.769" fill="#6c5d25" font-family="Roboto" font-size="2.6667px" stop-color="#000000" stroke-width=".5" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="5.7317" y="37.769">h<tspan baseline-shift="sub" fill="#6c5d25" font-size="65%">n</tspan></tspan></text>
-  <circle cx="79.885" cy="22.434" r="5.2296" fill="#0400ef" stop-color="#000000" stroke-width=".99999"/>
-  <rect x="9" y="33.001" width="6.0008" height="6.999" fill="#6c5d25" stop-color="#000000"/>
-  <rect x="8" y="10" width="24" height="24" fill="none" stop-color="#000000" stroke="#00e62b" stroke-dasharray="0.5, 0.5" stroke-width=".5"/>
-  <text x="74.142" y="36.899" fill="#6c5d25" font-family="Roboto" font-size="2.6667px" stop-color="#000000" stroke-width=".5" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="74.142" y="36.899">w<tspan baseline-shift="sub" fill="#6c5d25" font-size="65%">n</tspan></tspan></text>
-  <text x="68.813" y="31.187" fill="#6c5d25" font-family="Roboto" font-size="2.6667px" stop-color="#000000" stroke-width=".5" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="68.813" y="31.187">h<tspan baseline-shift="sub" fill="#6c5d25" font-size="65%">n</tspan></tspan></text>
-  <rect x="72.197" y="27.431" width="6.0008" height="6.999" fill="#6c5d25" stop-color="#000000"/>
-  <rect x="77.385" y="14.204" width="5" height="3" fill="#fbc600" stop-color="#000000"/>
-  <rect x="82.911" y="13.201" width="9" height="5" fill="#d0911f" stop-color="#000000"/>
-  <rect x="67.885" y="10.434" width="24" height="24" fill="none" stop-color="#000000" stroke="#00e62b" stroke-dasharray="0.5, 0.5" stroke-width=".5"/>
-  <path d="m20 22 12.726-11.316" fill="#ff06d7" stop-color="#000000" stroke="#ff06d7" stroke-linecap="round" stroke-width=".375"/>
-  <path d="m79.885 22.434 7.526-6.733" fill="#ff06d7" stop-color="#000000" stroke="#ff06d7" stroke-linecap="round" stroke-width=".375"/>
-  <path d="m79.885 22.434h5.223" fill="none" stop-color="#000000" stroke="#ff06d7" stroke-width=".375"/>
-  <path d="m82.218 20.355a3.125 3.125 0 0 1 0.792 2.079" fill="none" stop-color="#000000" stroke="#d09700" stroke-linecap="round" stroke-width=".25"/>
-  <path d="m22.333 19.921a3.125 3.125 0 0 1 0.792 2.079" fill="none" stop-color="#000000" stroke="#d09700" stroke-linecap="round" stroke-width=".25"/>
+  <text fill="#d0911f" x="85.716" y="12.157" font-family="Roboto" font-size="2.6667px" xml:space="preserve"><tspan x="85.716" y="12.157">w<tspan fill="#d0911f" baseline-shift="sub" font-size="65%">2</tspan></tspan></text>
+  <text fill="#d0911f" x="92.819" y="16.74" font-family="Roboto" font-size="2.6667px" xml:space="preserve"><tspan x="92.819" y="16.74">h<tspan baseline-shift="sub" font-size="65%">2</tspan></tspan></text>
+  <text fill="#fbc600" x="78.359" y="13.143" font-family="Roboto" font-size="2.6667px" xml:space="preserve"><tspan x="78.359" y="13.143">w<tspan fill="#fbc600" baseline-shift="sub" font-size="65%">1</tspan></tspan></text>
+  <text fill="#fbc600" x="74.33" y="16.384" font-family="Roboto" font-size="2.6667px" xml:space="preserve"><tspan x="74.33" y="16.384">h<tspan fill="#fbc600" baseline-shift="sub" font-size="65%">1</tspan></tspan></text>
+  <circle r="12" fill="#888" opacity="0.5" cx="20" cy="22"/>
+  <rect width="9" height="5" fill="#d0911f" x="28.226" y="8.1845"/>
+  <rect width="5" height="3" fill="#fbc600" x="17.5" y="7"/>
+  <path fill="none" stroke="#000" stroke-width=".5" d="m40 22h19" marker-end="url(#TriangleOutM)"/>
+  <text fill="#d0911f" x="31.495" y="6.4729" font-family="Roboto" font-size="2.6667px" xml:space="preserve"><tspan x="31.495" y="6.4729">w<tspan fill="#d0911f" baseline-shift="sub" font-size="65%">2</tspan></tspan></text>
+  <text fill="#d0911f" x="38.481" y="11.593" font-family="Roboto" font-size="2.6667px" xml:space="preserve"><tspan x="38.481" y="11.593">h<tspan baseline-shift="sub" font-size="65%">2</tspan></tspan></text>
+  <text fill="#fbc600" x="18.692" y="5.6181" font-family="Roboto" font-size="2.6667px" xml:space="preserve"><tspan x="18.692" y="5.6181">w<tspan fill="#fbc600" baseline-shift="sub" font-size="65%">1</tspan></tspan></text>
+  <text fill="#fbc600" x="14.622" y="8.4567" font-family="Roboto" font-size="2.6667px" xml:space="preserve"><tspan x="14.622" y="8.4567">h<tspan fill="#fbc600" baseline-shift="sub" font-size="65%">1</tspan></tspan></text>
+  <text fill="#6c5d25" x="10.676" y="42.392" font-family="Roboto" font-size="2.6667px" xml:space="preserve"><tspan x="10.676" y="42.392">w<tspan fill="#6c5d25" baseline-shift="sub" font-size="65%">n</tspan></tspan></text>
+  <text fill="#6c5d25" x="5.7317" y="37.769" font-family="Roboto" font-size="2.6667px" xml:space="preserve"><tspan x="5.7317" y="37.769">h<tspan fill="#6c5d25" baseline-shift="sub" font-size="65%">n</tspan></tspan></text>
+  <circle r="5.2296" fill="#888" opacity="0.5" cx="79.885" cy="22.434"/>
+  <rect width="6.0008" height="6.999" fill="#6c5d25" x="9" y="33.001"/>
+  <rect width="24" height="24" fill="none" stroke="#00e62b" stroke-width=".3" stroke-dasharray="0.5, 0.5" x="8" y="10"/>
+  <text fill="#6c5d25" stroke-width=".5" x="74.142" y="36.899" font-family="Roboto" font-size="2.6667px" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="74.142" y="36.899">w<tspan fill="#6c5d25" baseline-shift="sub" font-size="65%">n</tspan></tspan></text>
+  <text fill="#6c5d25" stroke-width=".5" x="68.813" y="31.187" font-family="Roboto" font-size="2.6667px" style="line-height:1.25;text-decoration-color:#000000;text-decoration-line:none" xml:space="preserve"><tspan x="68.813" y="31.187">h<tspan fill="#6c5d25" baseline-shift="sub" font-size="65%">n</tspan></tspan></text>
+  <rect width="6.0008" height="6.999" fill="#6c5d25" x="72.197" y="27.431"/>
+  <rect width="5" height="3" fill="#fbc600" x="77.385" y="14.204"/>
+  <rect width="9" height="5" fill="#d0911f" x="82.911" y="13.201"/>
+  <rect width="24" height="24" fill="none" stroke="#00e62b" stroke-width=".3" stroke-dasharray="0.5, 0.5" x="67.885" y="10.434"/>
+  <path fill="none" stroke="#ff06d7" stroke-width=".25" stroke-linecap="round" d="m20 22h12"/>
+  <path fill="none" stroke="#ff06d7" stroke-width=".25" stroke-linecap="round" d="m20 22 12.726-11.316"/>
+  <path fill="none" stroke="#ff06d7" stroke-width=".25" stroke-linecap="round" d="m79.885 22.434 7.526-6.733"/>
+  <path fill="none" stroke="#ff06d7" stroke-width=".25" stroke-linecap="round" d="m79.885 22.434h5"/>
+  <path fill="none" stroke="#5007ff" stroke-width=".25" stroke-linecap="round" d="m82.218 20.355a3.125 3.125 0 0 1 0.792 2.079"/>
+  <path fill="none" stroke="#5007ff" stroke-width=".25" stroke-linecap="round" d="m22.333 19.921a3.125 3.125 0 0 1 0.792 2.079"/>
 </svg>
