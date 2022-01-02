@@ -1,8 +1,25 @@
-These are created with the online tool [Vectary](https://www.vectary.com/).
+The object (OBJ) file of the 3d logo (created with Vectary) is availbale in the directory as a [zip file](obj.zip).
 
-The legacy *Studio 3.0 (2020)* is used.
-The *Camera 1* is mainly used for photos.
+Colors used for the plane:
+  - `#fff`
+  - `#e8e8e8`
+  - `#f9f0ff`
+  - `#888`
+  - `transparent`
 
+The blender version of logo was created by Mojtaba.
+
+Adobe Dimension 2020 did not support importing SVG images.
+So, I imported the M logo in Vectary, extruded it and exported to *OBJ* format
+and then used the object file in Adobe Dimension.
+See the [procedure section below](#Procedure) for how to import SVG in Vectary.
+
+
+[Vectary](https://www.vectary.com/) is an online tool.
+Its legacy *Studio 3.0 (2020)* version is used.
+The *Camera 1* is the one used for new photos.
+
+### Procedure
 First I modified the svg of my *M* logo and converted the strokes to paths in Inkscape.
 Then I imported the svg into Vectary.
 Then I selected *Geometery* button from right panel.
@@ -14,12 +31,8 @@ Then I added a *Rectangle light* and positioned it in my desired place and resiz
 (Actually the light is not needed at all. the Screenshot 13 to 17 did not use light at all).
 Then I added a *SquarePlane* as the background plane of my object.
 
-Colors used for the plain: `#fff`, `#e8e8e8`, `#f9f0ff`, `#888`, and `transparent`.
-
 See [this YouTube video](https://youtu.be/oFt_eeGuhjo) from Vectary to learn more.
 
-The object (OBJ) file has been exported and is availbale in the directory as a [zip file](obj.zip).
-
-To change the plane color, select it and change its color.
+To change the plane color in Vectary, select it and change its color.
 We can also change the color of environment by selecting *Object* tab on top left corner
 and from right panel change the environment color.
