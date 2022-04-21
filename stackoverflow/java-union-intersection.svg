@@ -1,8 +1,8 @@
 <svg version="1.1" viewBox="0 0 485.5 283" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <marker id="arrow" overflow="visible" orient="auto">
-    <path fill="#000" d="m-5-4 10 4-10 4z"/>
+    <path fill="#888" d="m-5-4 10 4-10 4z"/>
   </marker>
-  <g stroke="#000" transform="translate(-29.25 -113.5)">
+  <g stroke="#888" transform="translate(-29.25 -113.5)">
     <g id="set">
       <circle r="48" fill="#8080ff" cx="95.75" cy="180"/>
       <circle r="48" fill="#ff8080" cx="144.25" cy="180"/>
@@ -12,7 +12,7 @@
     <use xlink:href="#set" y="150"/>
     <path fill="#c0ffc0" d="m399.75 132a48 48 0 0 0-48 48 48 48 0 0 0 48 48 48 48 0 0 0 24.25-6.58 48 48 0 0 0 24.25 6.58 48 48 0 0 0 48-48 48 48 0 0 0-48-48 48 48 0 0 0-24.25 6.58 48 48 0 0 0-24.25-6.58z"/>
     <path fill="#c0ffc0" d="m424 288.58a48 48 0 0 0-23.75 41.42 48 48 0 0 0 23.75 41.42 48 48 0 0 0 23.75-41.42 48 48 0 0 0-23.75-41.42z"/>
-    <text stroke="none" x="249.94" y="171.65" font-family="sans-serif" font-size="16">Union</text>
-    <text stroke="none" x="225" y="321.65" font-family="sans-serif" font-size="16">Intersection</text>
+    <text stroke="none" fill="#888" x="249.94" y="171.65" font-family="sans-serif" font-size="16">Union</text>
+    <text stroke="none" fill="#888" x="225" y="321.65" font-family="sans-serif" font-size="16">Intersection</text>
   </g>
 </svg>
