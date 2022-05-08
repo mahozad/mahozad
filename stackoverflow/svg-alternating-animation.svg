@@ -1,0 +1,5 @@
+<svg viewBox="0 0 24 24" width="160" height="160" xmlns="http://www.w3.org/2000/svg">
+  <circle fill="#f5ca20" r="5" cx="12" cy="12">
+    <animate attributeName="r" dur="12s" begin="3s" values="5; 10; 10; 5; 5" keyTimes="0; 0.083; 0.5; 0.583; 1" repeatDur="indefinite" calcMode="spline" keySplines="0.37, 0, 0.63, 1; 0, 0, 1, 1; 0.37, 0, 0.63, 1; 0, 0, 1, 1"/>
+  </circle>
+</svg>
