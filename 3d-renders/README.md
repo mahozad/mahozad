@@ -50,6 +50,8 @@ https://youtu.be/mB0p1b1W3Rs
 https://blenderartists.org/t/cycles-how-to-brighten-only-the-darkest-of-shadows-reduce-shadow-darkness/579332
 https://blenderartists.org/t/control-the-amount-of-shadow-on-a-shadow-catcher/1274531/6
 
+For more information see the mahozad.github.io repository.
+
 ## Adobe Dimension
 Adobe Dimension 2020 did not support importing SVG images.
 So, I imported the M logo in Vectary, extruded it and exported to *OBJ* format
